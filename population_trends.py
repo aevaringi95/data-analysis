@@ -1,3 +1,10 @@
+'''
+This codes takes in data from Hagstofan, transforms it and 
+creates a times series plot
+'''
+
+
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
